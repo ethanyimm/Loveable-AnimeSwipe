@@ -71,7 +71,8 @@ To connect a domain, navigate to Project > Settings > Domains and click Connect 
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
 
-# 🎴 AnimeSwipe A minimal React + TypeScript application that lets users swipe through anime character cards — swiping right to like and left to pass — with smooth animations and toast notifications. Built as part of my ongoing computer science learning journey, this project focuses on gesture handling, state management, and clean component architecture, while being fully compatible with modern frontend tooling.
+# 🎴AnimeSwipe 
+A minimal React + TypeScript application that lets users swipe through anime character cards — swiping right to like and left to pass — with smooth animations and toast notifications. Built as part of my ongoing computer science learning journey, this project focuses on gesture handling, state management, and clean component architecture, while being fully compatible with modern frontend tooling.
 
 # 📚 Part of My Learning Journey
 This project is part of my continuous exploration of computer science and software engineering concepts. Each week, I build a small, focused project to deepen my understanding of a specific topic. This week: gesture handling and state management in React with TypeScript.
